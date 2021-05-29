@@ -1,5 +1,4 @@
-### Hola soy AlexanderG y me gusta Python, aunque en este perfil no se regleje mucho es porq la gran mayoria de los proyectos son locales
-
+### Hi i'm AlexanderG 🥇
 
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
