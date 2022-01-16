@@ -2,12 +2,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPythonista&layout=compact&theme=dracula)](https://github.com/AlexanderPythonista/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderPythonista&repo=php_mysql_crud&show_owner=true)](https://github.com/AlexanderPythonista/php_mysql_crud)
 
 ![AlexanderPythonista's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=radical)
 
 
+# Repos Pinned
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderPythonista&repo=php_mysql_crud&show_owner=true&theme=dracula)](https://github.com/AlexanderPythonista/php_mysql_crud)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderPythonista&repo=App-Task&show_owner=true&theme=dracula)](https://github.com/AlexanderPythonista/App-Task)
 
 <!--
 **AlexanderG-Developers/AlexanderG-Developers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
