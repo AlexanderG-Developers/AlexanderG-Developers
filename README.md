@@ -2,7 +2,7 @@
 
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPythonista&layout=compact)](https://github.com/AlexanderPythonista/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPythonista&theme=dracula)](https://github.com/AlexanderPythonista/github-readme-stats)
 <!--
 **AlexanderG-Developers/AlexanderG-Developers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
