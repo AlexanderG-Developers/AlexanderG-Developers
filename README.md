@@ -8,7 +8,6 @@
 
 
 ![AlexanderPythonista's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=dracula)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 # Repos Pinned
