@@ -1,6 +1,5 @@
 ### Hi i'm AlexanderG 🥇
 
-[![Gituhub](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Estas son mis estadisticas.
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPythonista&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
