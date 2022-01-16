@@ -1,9 +1,13 @@
 ### Hi i'm AlexanderG 🥇
+
+
+# Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPythonista&layout=compact&theme=dracula)](https://github.com/AlexanderPythonista/github-readme-stats)
 
+# Statistics
 
 
-![AlexanderPythonista's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=radical)
+![AlexanderPythonista's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderPythonista&show_icons=true&theme=dracula)
 
 
 # Repos Pinned
